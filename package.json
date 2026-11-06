@@ -1,0 +1,11 @@
+{
+  "name": "carepoint-hospital-selenium",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/hospital.test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.27.0"
+  }
+}
